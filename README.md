@@ -28,9 +28,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jm181987&show_icons=true&locale=en&layout=compact" alt="jm181987" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jm181987&show_icons=true&locale=en" alt="jm181987" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm181987)](https://github.com/jm181987/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm181987&layout=compact)](https://github.com/jm181987/github-readme-stats)
 
 
 <h3 align="left">Support:</h3>

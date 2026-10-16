@@ -32,3 +32,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jorgitom18"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jorgitom18" /></a></p><br><br>
+
+---
+
+## Proyectos KNJ
+
+Este perfil reúne proyectos de desarrollo web, automatización y herramientas de software. Consulta los repositorios públicos para ver el código y las instrucciones específicas de cada proyecto.
+
+Desarrollo y mantenimiento: **KNJ** · [KNJ Marketing](https://www.marketingknj.site/).
